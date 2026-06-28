@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1906d1,100:🔥1906d1&height=160&section=header&text=%20Carlos%🔥on🔥%20fire%20🔥%20%20&fontSize=38&fontAlignY=40&animation=fadeIn&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1906d1,100:1906d1&height=160&section=header&text=%20Carlos% Eduardo %20Rodrigues da Silva%20🔥%20%20&fontSize=38&fontAlignY=40&animation=fadeIn&fontColor=ffffff" />
 </div>
 
 <p align="center">
